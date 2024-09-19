@@ -10,4 +10,3 @@ namespace RssViewerDemo;
 public partial class App : Application
 {
 }
-
